@@ -3,11 +3,11 @@
 ## 📬 Connect with Me
 
 <a href="https://www.instagram.com/proindra.ig/">
-  <img height="50" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=for-the-badge" height="50" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/proindra/">
-  <img height="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge" height="50" />
 </a>
 
 <br/>
