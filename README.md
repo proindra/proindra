@@ -1,6 +1,6 @@
 <div align="center">
 
-## 📬 Connect with Me
+##  Connect with Me
 
 <a href="https://www.instagram.com/proindra.ig/">
   <img height="50" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logoColor=white" />
