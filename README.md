@@ -2,11 +2,11 @@
 
 ## Connect with Me
 
-<a href="https://www.instagram.com/proindra.ig/">
+<a href="https://www.instagram.com/proindra.ig/" target="_blank">
   <img height="35" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/proindra/">
+<a href="https://www.linkedin.com/in/proindra/" target="_blank">
   <img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
 </a>
 
