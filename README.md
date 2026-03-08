@@ -1,5 +1,3 @@
-<br/>
-
 ---
 
 <!-- Connect with Me -->
