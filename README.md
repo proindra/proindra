@@ -2,9 +2,6 @@
 <div align="center">
 
 ## 🔗 Connect with Me
-
-<br/>
-
 <a href="https://proindra.github.io/Portfolio-W3B5173/index.html" target="_blank">
   <img src="https://img.shields.io/badge/🌐  Portfolio-FF4500?style=for-the-badge&logoColor=white" height="45"/>
 </a>
