@@ -15,7 +15,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=proindra&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
 
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=proindra&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&height=250" width="75%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=proindra&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&height=250" width="100%" />
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer)
 </div>
