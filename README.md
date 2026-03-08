@@ -1,7 +1,4 @@
 <div align="center">
-
-## Connect with Me
-
 <a href="https://proindra.github.io/Portfolio-W3B5173/index.html" target="_blank">
   <img height="35" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge" />
 </a>
