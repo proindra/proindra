@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/💼  LinkedIn-0A66C2?style=for-the-badge&logoColor=white" height="45"/>
 </a>
 
+---
 </div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=proindra&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b" width="95%" />
 
