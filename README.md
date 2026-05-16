@@ -23,9 +23,8 @@
 />
 <br>
 <img
-  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXp1dXA0dDBrbHh2N3VjdmtvNnQ1eG1kcXR6ZG00amVtb3BjcHUwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r77sc23Jo1AhlB0uQh/giphy.gif"
+  src="https://raw.githubusercontent.com/proindra/proindra/main/assets/anime.gif"
   width="100%"
-  height="60"
 />
 <br>
 <img 
