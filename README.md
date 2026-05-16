@@ -6,6 +6,9 @@
 <a href="https://www.instagram.com/proindra.ig/" target="_blank">
   <img height="35" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" />
 </a>
+<a href="https://marketplace.visualstudio.com/items?itemName=proindra.quickdoc-preview" target="_blank">
+  <img height="35" src="https://img.shields.io/badge/VS Code Extension-FFC107?style=for-the-badge" />
+</a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/proindra/" target="_blank">
   <img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />
