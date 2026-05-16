@@ -28,13 +28,13 @@
 
 <img height="35" src="https://img.shields.io/badge/Profile_Views-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
 
-<br><br>
+<br>
 
 <img 
   src="https://komarev.com/ghpvc/?username=proindra&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS&base=17000"
 />
 
-<br><br>
+<br>
 
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"
