@@ -30,7 +30,6 @@
     <td><img src="https://raw.githubusercontent.com/proindra/proindra/main/assets/anime3.gif" height="200px" width="100%" /></td>
   </tr>
 </table>
-<br>
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"
   width="100%"
