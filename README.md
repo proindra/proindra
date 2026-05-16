@@ -13,5 +13,5 @@
 &nbsp;&nbsp;
 <img height="35" src="https://komarev.com/ghpvc/?username=proindra&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS&base=17000" />
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%" />
 </div>
