@@ -24,7 +24,7 @@
 <br>
 <img
   src="https://raw.githubusercontent.com/proindra/proindra/main/assets/anime.gif"
-  width="100%"
+  height="50px" width="100%"
 />
 <br>
 <img 
