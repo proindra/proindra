@@ -12,19 +12,18 @@
   <img height="35" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/u/vuB91DA6Dh/" target="_blank">
-  <img height="35" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
 <a href="https://www.linkedin.com/in/proindra/" target="_blank">
   <img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/vuB91DA6Dh/" target="_blank">
+  <img height="35" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <a href="https://proindra.github.io/AI-Powered-Personal-Booking-Agent/" target="_blank">
   <img height="35" src="https://img.shields.io/badge/Incarnate_Eternity-9400D3?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <br>
-
 <img 
   src="https://komarev.com/ghpvc/?username=proindra&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS&base=17000"
 />
