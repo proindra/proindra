@@ -11,6 +11,10 @@
   <img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />
 </a>
 &nbsp;&nbsp;
+<a href="https://proindra.github.io/AI-Powered-Personal-Booking-Agent/" target="_blank">
+  <img height="35" src="https://img.shields.io/badge/Dr 4D-F077B5?style=for-the-badge" />
+</a>
+&nbsp;&nbsp;
 <img height="35" src="https://komarev.com/ghpvc/?username=proindra&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS&base=17000" />
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%" />
