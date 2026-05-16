@@ -23,11 +23,6 @@
 <a href="https://proindra.github.io/AI-Powered-Personal-Booking-Agent/" target="_blank">
   <img height="35" src="https://img.shields.io/badge/Incarnate_Eternity-9400D3?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br><br>
-
-<img height="35" src="https://img.shields.io/badge/Profile_Views-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-
 <br>
 
 <img 
