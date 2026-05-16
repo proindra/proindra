@@ -22,7 +22,7 @@
 />
 <br>
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0047AB,100:00CFFF&height=90&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:4B0082,100:9400D3&height=90&section=footer"
   width="100%"
 />
 
