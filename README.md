@@ -22,10 +22,15 @@
   src="https://komarev.com/ghpvc/?username=proindra&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS&base=17000"
 />
 <br>
-<img
-  src="https://raw.githubusercontent.com/proindra/proindra/main/assets/anime.gif"
-  height="200px" width="60%"
-/>
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/proindra/proindra/main/assets/anime.gif" height="200px" width="100%" /></td>
+    <td><img src="https://raw.githubusercontent.com/proindra/proindra/main/assets/anime2.gif" height="200px" width="100%" /></td>
+    <td><img src="https://raw.githubusercontent.com/proindra/proindra/main/assets/anime3.gif" height="200px" width="100%" /></td>
+  </tr>
+</table>
+
 <br>
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"
