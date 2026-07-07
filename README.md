@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/proindra/" target="_blank">
   <img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://leetcode.com/u/vuB91DA6Dh/" target="_blank">
+<a href="https://leetcode.com/u/proindra/" target="_blank">
   <img height="35" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 <a href="https://proindra.github.io/AI-Powered-Personal-Booking-Agent/" target="_blank">
