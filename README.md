@@ -6,7 +6,7 @@
   <img height="35" src="https://img.shields.io/badge/VS_Code_Extension-FFC107?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
 </a>
 <a href="https://proindra.github.io/AI-Powered-Personal-Booking-Agent/" target="_blank">
-  <img height="35" src="https://img.shields.io/badge/Incarnate_Eternity-9400D3?style=for-the-badge&logo=github&logoColor=white" />
+  <img height="35" src="https://img.shields.io/badge/Capsule-9400D3?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <img 
   src="https://komarev.com/ghpvc/?username=proindra&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS&base=17000"
