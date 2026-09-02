@@ -18,12 +18,5 @@
 />
 
 <br>
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/proindra/proindra/main/assets/anime.gif" height="200px" width="100%" /></td>
-    <td><img src="https://raw.githubusercontent.com/proindra/proindra/main/assets/anime2.gif" height="200px" width="100%" /></td>
-    <td><img src="https://raw.githubusercontent.com/proindra/proindra/main/assets/anime3.gif" height="200px" width="100%" /></td>
-  </tr>
-</table>
 
 </div>
