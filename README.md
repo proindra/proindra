@@ -1,22 +1,9 @@
 <div align="center">
-<a href="https://proindra.github.io/Portfolio-W3B5173/index.html" target="_blank">
-  <img height="35" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://marketplace.visualstudio.com/items?itemName=proindra.quickdoc-preview" target="_blank">
-  <img height="35" src="https://img.shields.io/badge/VS_Code_Extension-FFC107?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
-</a>
-<a href="https://proindra.github.io/AI-Powered-Personal-Booking-Agent/" target="_blank">
-  <img height="35" src="https://img.shields.io/badge/Capsule-9400D3?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img 
-  src="https://komarev.com/ghpvc/?username=proindra&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS&base=17000"
-/>
-<br>
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,20:00CFFF,40:6A0DAD,60:8B0000,80:FF2400,100:0047AB&height=90&section=footer"
-  width="100%"
-/>
 
-<br>
+![Profile Views](https://komarev.com/ghpvc/?username=proindra\&label=PROFILE+VIEWS\&color=58a6ff\&style=for-the-badge)
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,20:00CFFF,40:6A0DAD,60:8B0000,80:FF2400,100:0047AB&height=90&section=footer" width="100%" alt="Footer">
 
 </div>
