@@ -1,19 +1,21 @@
 <div align="center">
-<br>
 
 ### ✦ Building things that actually work.
 
-`Backend • Systems • AI/ML • Open Source`
+`Backend` • `Systems` • `AI/ML` • `Open Source`
 
 <br>
-<a href="https://x.com/rayello7">
-  <img src="https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white" alt="X.com">
-</a>
+
+<a href="https://x.com/pro1ndr4x"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a href="https://linkedin.com/in/proindra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://instagram.com/pro1ndra"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+
 <br><br>
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,20:00CFFF,40:6A0DAD,60:8B0000,80:FF2400,100:0047AB&height=90&section=footer"
-width="100%"
-alt="Footer"
-/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=proindra&show_icons=true&theme=transparent&hide_border=true&title_color=0070F3&icon_color=2A8CA8&text_color=2A8CA8" height="170" alt="GitHub stats">
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,20:00CFFF,40:6A0DAD,60:8B0000,80:FF2400,100:0047AB&height=90&section=footer" width="100%" alt="Footer">
 
 </div>
